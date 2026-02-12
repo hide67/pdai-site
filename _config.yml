@@ -1,0 +1,21 @@
+title: PDAI - Personal Digital AI Assistant
+description: >-
+  PDA + AI = PDAI. iPhoneをもっと賢くするパーソナルAIアシスタント。
+  OODA Loopベースの自律型エージェントが、ヘルスケア・旅行・議事録・カレンダーをスマートに管理。
+url: "https://hide67.github.io"
+baseurl: "/pdai-site"
+lang: ja
+
+# Build settings
+theme: null
+plugins: []
+
+# Permalinks
+permalink: pretty
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
